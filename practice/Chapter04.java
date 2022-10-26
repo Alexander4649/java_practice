@@ -3,7 +3,7 @@ public class Chapter04 {
         String rei = "watashi";
         // System.out.println(rei);
         rei = "ore";
-        final int HOME_SIZE = 9;
+        final int HOME_SIZE = 6;
         System.out.println(HOME_SIZE);
     }
 }
